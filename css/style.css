@@ -1,0 +1,74 @@
+body{
+    background-color: antiquewhite;
+    font-family: sans-serif;
+}
+.header{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center ;
+}
+.logo{
+        width: 250px;
+}
+.first{
+        background-color: white;
+    display: grid;
+    padding: 70px;
+    background-color: white;
+}
+.line{
+    color: black;
+    margin-right: 45px;
+    margin-left: 25px;
+}
+.wel{
+        padding-left: 8px;
+}
+.and{
+       margin-bottom: 24px;
+    margin-left: 15px;  
+}
+.dell{
+    margin-bottom: 23px;
+    padding: 6px;
+    border-style: solid;
+    border-radius: 10px;
+}
+.two{
+    display: flex;
+    justify-content: space-evenly;
+}
+.delled{
+        margin-bottom: 22px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    padding-right: 67px;
+    padding-left: 40px;
+    border-style: solid;
+    border-radius: 10px;
+}
+.button{
+        color: white;
+    border-style: none;
+    background: cornflowerblue;
+    border-radius: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.second{
+    background-color: cadetblue;
+        align-content: center;
+}
+.last{
+        text-align: center;
+}
+.liner{
+     color: black;
+    margin-right: 45px;
+    margin-left: 25px;
+}
+.kel{
+    color: green;
+}
